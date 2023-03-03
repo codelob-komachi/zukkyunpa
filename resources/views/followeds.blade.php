@@ -47,7 +47,7 @@
           </a></li>
           <li><a href="followeds" class="followAll">
             <div class="fname">
-              <p class="name">フォロワー</p>
+              <p class="name"><span class="yeah">フォロワー</span></p>
             </div>
           </a></li>
         </ul>

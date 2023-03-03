@@ -42,7 +42,7 @@
         <ul class="cs">
           <li><a href="follow" class="followAll">
             <div class="fname">
-              <p class="name">フォロー中</p>
+              <p class="name"><span class="yeah">フォロー中</span></p>
             </div>
           </a></li>
           <li><a href="followeds" class="followAll">

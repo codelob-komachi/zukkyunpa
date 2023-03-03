@@ -1506,3 +1506,7 @@ textarea {
   padding-top: 37px;
   padding-left: 105px;
 }
+
+.yeah {
+  background: linear-gradient(transparent 70%, #a7d6ff 70%);
+}
